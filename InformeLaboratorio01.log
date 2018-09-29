@@ -1,0 +1,1470 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.5.3)  5 MAY 2018 13:19
+entering extended mode
+**./InformeLaboratorio01.tex
+(InformeLaboratorio01.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.st
+y"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+ ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+ ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+ ("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omsenc.dfu
+"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.st
+y"
+Package: babel 2018/02/14 3.18 The Babel package
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.d
+ef"
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\sp
+anish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.de
+f"
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count87
+\U@D=\dimen103
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel
+.def")
+\bbl@dirlevel=\count88
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count89
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+x.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.
+sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphic
+s.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.st
+y"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\gra
+phics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdf
+tex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf
+.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvte
+x.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxete
+x.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen106
+\Gm@wd@mp=\dimen107
+\Gm@odd@mp=\dimen108
+\Gm@even@mp=\dimen109
+\Gm@layoutwidth=\dimen110
+\Gm@layoutheight=\dimen111
+\Gm@layouthoffset=\dimen112
+\Gm@layoutvoffset=\dimen113
+\Gm@dimlist=\toks18
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometr
+y.cfg"))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count93
+\float@exts=\toks19
+\float@box=\box26
+\@float@everytoks=\toks20
+\@floatcapt=\box27
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.
+sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.
+sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.s
+ty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen114
+))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.s
+ty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen115
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.s
+ty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count94
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count95
+\leftroot@=\count96
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count97
+\DOTSCASE@=\count98
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count99
+\c@MaxMatrixCols=\count100
+\dotsspace@=\muskip10
+\c@parentequation=\count101
+\dspbrk@lvl=\count102
+\tag@help=\toks22
+\row@=\count103
+\column@=\count104
+\maxfields@=\count105
+\andhelp@=\toks23
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks24
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\stackre
+l.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexc
+mds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwa
+rerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\iflua
+tex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdfte
+xcmds.sty"
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcm
+ds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multiro
+w.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip46
+\multirow@cntb=\count106
+\multirow@dima=\skip47
+\bigstrutjot=\dimen123
+)
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.
+sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks26
+) (InformeLaboratorio01.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad04.aux) (Secciones/Actividad05.aux)
+(Secciones/Actividad06.aux) (Secciones/Actividad07.aux)
+(Secciones/Actividad08.aux) (Secciones/Actividad09.aux)
+(Secciones/Actividad10.aux))
+\openout1 = `InformeLaboratorio01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopd
+f-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.
+sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdef
+inekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptio
+ns.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\AEPIS01\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvset
+keys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<./Imagenes/logo.jpg, id=1, 276.03125pt x 183.68625pt>
+File: ./Imagenes/logo.jpg Graphic file (type jpg)
+<use ./Imagenes/logo.jpg>
+Package pdftex.def Info: ./Imagenes/logo.jpg  used on input line 38.
+(pdftex.def)             Requested size: 227.62204pt x 151.47853pt.
+[1
+
+{C:/Users/AEPIS01/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Imagene
+s/logo.jpg>] (InformeLaboratorio01.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `InformeLaboratorio01.toc'.
+
+ [1]
+\openout2 = `Secciones/Actividad01.aux'.
+
+ (Secciones/Actividad01.tex
+<./Imagenes/actividad0101.jpg, id=11, 182.18062pt x 181.42781pt>
+File: ./Imagenes/actividad0101.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0101.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0101.jpg  used on input line 8.
+(pdftex.def)             Requested size: 142.26378pt x 141.68199pt.
+<./Imagenes/actividad0102.jpg, id=12, 301.8778pt x 147.55125pt>
+File: ./Imagenes/actividad0102.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0102.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0102.jpg  used on input line 15.
+(pdftex.def)             Requested size: 142.26378pt x 69.5337pt.
+<./Imagenes/actividad0103.jpg, id=13, 186.6975pt x 149.8097pt>
+File: ./Imagenes/actividad0103.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0103.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0103.jpg  used on input line 22.
+(pdftex.def)             Requested size: 142.26378pt x 114.16055pt.
+)
+[1
+
+ <./Imagenes/actividad0101.jpg> <./Imagenes/actividad0102.jpg> <./Imagenes/acti
+vidad0103.jpg>]
+\openout2 = `Secciones/Actividad02.aux'.
+
+ (Secciones/Actividad02.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+
+ []
+
+<./Imagenes/actividad0201.jpg, id=18, 603.0028pt x 429.85594pt>
+File: ./Imagenes/actividad0201.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0201.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0201.jpg  used on input line 9.
+(pdftex.def)             Requested size: 284.52756pt x 202.82596pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--19
+
+ []
+
+<./Imagenes/actividad0202.jpg, id=19, 263.48438pt x 288.3272pt>
+File: ./Imagenes/actividad0202.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0202.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0202.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 155.68556pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--27
+
+ []
+
+<./Imagenes/actividad0203.jpg, id=20, 243.91125pt x 239.39438pt>
+File: ./Imagenes/actividad0203.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0203.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0203.jpg  used on input line 29.
+(pdftex.def)             Requested size: 142.26378pt x 139.63054pt.
+[2
+
+
+ <./Imagenes/actividad0201.jpg> <./Imagenes/actividad0202.jpg>]) [3 <./Imagenes
+/actividad0203.jpg>]
+\openout2 = `Secciones/Actividad03.aux'.
+
+ (Secciones/Actividad03.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--11
+
+ []
+
+<./Imagenes/actividad0301.jpg, id=27, 292.09125pt x 283.0575pt>
+File: ./Imagenes/actividad0301.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0301.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0301.jpg  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 137.86578pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<./Imagenes/actividad0302.jpg, id=28, 383.93437pt x 255.20343pt>
+File: ./Imagenes/actividad0302.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0302.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0302.jpg  used on input line 20.
+(pdftex.def)             Requested size: 142.26378pt x 94.56396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--37
+
+ []
+
+[4
+
+
+ <./Imagenes/actividad0301.jpg> <./Imagenes/actividad0302.jpg>]
+<./Imagenes/actividad0303.jpg, id=32, 305.64188pt x 374.14781pt>
+File: ./Imagenes/actividad0303.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0303.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0303.jpg  used on input line 38.
+(pdftex.def)             Requested size: 142.26378pt x 174.1482pt.
+) [5 <./Imagenes/actividad0303.jpg>]
+\openout2 = `Secciones/Actividad04.aux'.
+
+ (Secciones/Actividad04.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+
+ []
+
+<./Imagenes/actividad_04_01.png, id=37, 121.95563pt x 134.00063pt>
+File: ./Imagenes/actividad_04_01.png Graphic file (type png)
+<use ./Imagenes/actividad_04_01.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_01.png  used on input line 8.
+(pdftex.def)             Requested size: 142.26378pt x 156.31592pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+<./Imagenes/actividad_04_02.png, id=39, 137.7647pt x 295.85532pt>
+File: ./Imagenes/actividad_04_02.png Graphic file (type png)
+<use ./Imagenes/actividad_04_02.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_02.png  used on input line 15.
+
+(pdftex.def)             Requested size: 142.26378pt x 305.54695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+[6
+
+
+ <./Imagenes/actividad_04_01.png> <./Imagenes/actividad_04_02.png>]
+<./Imagenes/actividad_04_03.png, id=45, 184.43906pt x 292.09125pt>
+File: ./Imagenes/actividad_04_03.png Graphic file (type png)
+<use ./Imagenes/actividad_04_03.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_03.png  used on input line 22.
+
+(pdftex.def)             Requested size: 142.26378pt x 225.29869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+
+ []
+
+<./Imagenes/actividad_04_04.png, id=46, 185.19188pt x 61.73062pt>
+File: ./Imagenes/actividad_04_04.png Graphic file (type png)
+<use ./Imagenes/actividad_04_04.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_04.png  used on input line 29.
+
+(pdftex.def)             Requested size: 142.26378pt x 47.42155pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
+
+ []
+
+<./Imagenes/actividad_04_05.png, id=47, 142.28156pt x 286.06876pt>
+File: ./Imagenes/actividad_04_05.png Graphic file (type png)
+<use ./Imagenes/actividad_04_05.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_05.png  used on input line 36.
+
+(pdftex.def)             Requested size: 142.26378pt x 286.06367pt.
+[7 <./Imagenes/actividad_04_03.png> <./Imagenes/actividad_04_04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
+
+ []
+
+<./Imagenes/actividad_04_06.png, id=53, 143.78719pt x 102.3825pt>
+File: ./Imagenes/actividad_04_06.png Graphic file (type png)
+<use ./Imagenes/actividad_04_06.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_06.png  used on input line 43.
+
+(pdftex.def)             Requested size: 142.26378pt x 101.30118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+<./Imagenes/actividad_04_07.png, id=54, 121.20282pt x 46.67438pt>
+File: ./Imagenes/actividad_04_07.png Graphic file (type png)
+<use ./Imagenes/actividad_04_07.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_07.png  used on input line 50.
+
+(pdftex.def)             Requested size: 142.26378pt x 54.79109pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--55
+
+ []
+
+[8 <./Imagenes/actividad_04_05.png> <./Imagenes/actividad_04_06.png> <./Imagene
+s/actividad_04_07.png>]
+<./Imagenes/actividad_04_08.png, id=61, 128.73094pt x 39.14626pt>
+File: ./Imagenes/actividad_04_08.png Graphic file (type png)
+<use ./Imagenes/actividad_04_08.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_08.png  used on input line 57.
+
+(pdftex.def)             Requested size: 142.26378pt x 43.26527pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+<./Imagenes/actividad_04_09.png, id=62, 193.47281pt x 294.34969pt>
+File: ./Imagenes/actividad_04_09.png Graphic file (type png)
+<use ./Imagenes/actividad_04_09.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_09.png  used on input line 64.
+
+(pdftex.def)             Requested size: 142.26378pt x 216.44098pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--70
+
+ []
+
+<./Imagenes/actividad_04_10.png, id=63, 126.4725pt x 133.24782pt>
+File: ./Imagenes/actividad_04_10.png Graphic file (type png)
+<use ./Imagenes/actividad_04_10.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_10.png  used on input line 72.
+
+(pdftex.def)             Requested size: 142.26378pt x 149.88715pt.
+[9 <./Imagenes/actividad_04_08.png> <./Imagenes/actividad_04_09.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 75--87
+
+ []
+
+<./Imagenes/actividad_04_11.png, id=69, 243.15843pt x 287.57437pt>
+File: ./Imagenes/actividad_04_11.png Graphic file (type png)
+<use ./Imagenes/actividad_04_11.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_11.png  used on input line 89.
+
+(pdftex.def)             Requested size: 142.26378pt x 168.25008pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--95
+
+ []
+
+[10 <./Imagenes/actividad_04_10.png> <./Imagenes/actividad_04_11.png>]
+<./Imagenes/actividad_04_12.png, id=75, 75.28125pt x 67.0003pt>
+File: ./Imagenes/actividad_04_12.png Graphic file (type png)
+<use ./Imagenes/actividad_04_12.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_12.png  used on input line 97.
+
+(pdftex.def)             Requested size: 142.26378pt x 126.64041pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+
+ []
+
+
+Overfull \hbox (47.27953pt too wide) in paragraph at lines 100--103
+\OT1/cmr/m/n/12 select last[]name from em-plo-yees whe-re SUBS-TRING(last[]name
+,3,1) = 'a' or SUBS-TRING(last[]name,3,1)
+ []
+
+<./Imagenes/actividad_04_13.png, id=76, 79.79813pt x 245.41687pt>
+File: ./Imagenes/actividad_04_13.png Graphic file (type png)
+<use ./Imagenes/actividad_04_13.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_13.png  used on input line 105
+.
+(pdftex.def)             Requested size: 142.26378pt x 437.53342pt.
+[11 <./Imagenes/actividad_04_12.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+
+ []
+
+
+Overfull \hbox (9.49081pt too wide) in paragraph at lines 108--111
+\OT1/cmr/m/n/12 select last[]name,job[]id,salary from em-plo-yees whe-re (job[]
+id = 'SA[]REP' or job[]id = 'ST[]CLERK')
+ []
+
+<./Imagenes/actividad_04_14.png, id=82, 175.40532pt x 126.4725pt>
+File: ./Imagenes/actividad_04_14.png Graphic file (type png)
+<use ./Imagenes/actividad_04_14.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_14.png  used on input line 113
+.
+(pdftex.def)             Requested size: 142.26378pt x 102.58302pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+
+ []
+
+[12 <./Imagenes/actividad_04_13.png> <./Imagenes/actividad_04_14.png>]
+<./Imagenes/actividad_04_15.png, id=88, 215.30438pt x 94.85437pt>
+File: ./Imagenes/actividad_04_15.png Graphic file (type png)
+<use ./Imagenes/actividad_04_15.png>
+Package pdftex.def Info: ./Imagenes/actividad_04_15.png  used on input line 121
+.
+(pdftex.def)             Requested size: 142.26378pt x 62.67644pt.
+)
+[13 <./Imagenes/actividad_04_15.png>]
+\openout2 = `Secciones/Actividad05.aux'.
+
+ (Secciones/Actividad05.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--12
+
+ []
+
+<./Imagenes/actividad_05_01.png, id=93, 495.35063pt x 61.73062pt>
+File: ./Imagenes/actividad_05_01.png Graphic file (type png)
+<use ./Imagenes/actividad_05_01.png>
+Package pdftex.def Info: ./Imagenes/actividad_05_01.png  used on input line 13.
+
+(pdftex.def)             Requested size: 142.26378pt x 17.72903pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+
+ []
+
+<./Imagenes/actividad_05_02.png, id=94, 246.1697pt x 328.22626pt>
+File: ./Imagenes/actividad_05_02.png Graphic file (type png)
+<use ./Imagenes/actividad_05_02.png>
+Package pdftex.def Info: ./Imagenes/actividad_05_02.png  used on input line 20.
+
+(pdftex.def)             Requested size: 142.26378pt x 189.69022pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+<./Imagenes/actividad_05_03.png, id=95, 304.88907pt x 327.47343pt>
+File: ./Imagenes/actividad_05_03.png Graphic file (type png)
+<use ./Imagenes/actividad_05_03.png>
+Package pdftex.def Info: ./Imagenes/actividad_05_03.png  used on input line 27.
+
+(pdftex.def)             Requested size: 142.26378pt x 152.80823pt.
+[14
+
+
+ <./Imagenes/actividad_05_01.png> <./Imagenes/actividad_05_02.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+<./Imagenes/actividad_05_04.png, id=101, 171.64125pt x 332.74312pt>
+File: ./Imagenes/actividad_05_04.png Graphic file (type png)
+<use ./Imagenes/actividad_05_04.png>
+Package pdftex.def Info: ./Imagenes/actividad_05_04.png  used on input line 38.
+
+(pdftex.def)             Requested size: 142.26378pt x 275.79083pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--44
+
+ []
+
+[15 <./Imagenes/actividad_05_03.png> <./Imagenes/actividad_05_04.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
+
+ []
+
+
+Overfull \hbox (83.23714pt too wide) in paragraph at lines 45--49
+\OT1/cmr/m/n/12 SELECT LAST[]NAME, ROUND(MONTHS[]BETWEEN(SYSDATE,HIRE[]DATE),0)
+ "MONTHS[]WORKED" 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--66
+
+ []
+
+<./Imagenes/actividad_05_07.png, id=108, 151.3153pt x 332.74312pt>
+File: ./Imagenes/actividad_05_07.png Graphic file (type png)
+<use ./Imagenes/actividad_05_07.png>
+Package pdftex.def Info: ./Imagenes/actividad_05_07.png  used on input line 67.
+
+(pdftex.def)             Requested size: 142.26378pt x 312.8395pt.
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+) [17 <./Imagenes/actividad_05_07.png>]
+\openout2 = `Secciones/Actividad06.aux'.
+
+ (Secciones/Actividad06.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--13
+
+ []
+
+<./Imagenes/img01.jpg, id=117, 325.215pt x 186.6975pt>
+File: ./Imagenes/img01.jpg Graphic file (type jpg)
+<use ./Imagenes/img01.jpg>
+Package pdftex.def Info: ./Imagenes/img01.jpg  used on input line 14.
+(pdftex.def)             Requested size: 284.52756pt x 163.35135pt.
+<./Imagenes/img02.jpg, id=118, 143.03438pt x 188.95593pt>
+File: ./Imagenes/img02.jpg Graphic file (type jpg)
+<use ./Imagenes/img02.jpg>
+Package pdftex.def Info: ./Imagenes/img02.jpg  used on input line 27.
+(pdftex.def)             Requested size: 284.52756pt x 375.88112pt.
+[18
+
+
+ <./Imagenes/img01.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+<./Imagenes/img03.jpg, id=122, 215.30438pt x 189.70876pt>
+File: ./Imagenes/img03.jpg Graphic file (type jpg)
+<use ./Imagenes/img03.jpg>
+Package pdftex.def Info: ./Imagenes/img03.jpg  used on input line 38.
+(pdftex.def)             Requested size: 284.52756pt x 250.72604pt.
+[19 <./Imagenes/img02.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--50
+
+ []
+
+<./Imagenes/img04.jpg, id=126, 149.05687pt x 188.95593pt>
+File: ./Imagenes/img04.jpg Graphic file (type jpg)
+<use ./Imagenes/img04.jpg>
+Package pdftex.def Info: ./Imagenes/img04.jpg  used on input line 51.
+(pdftex.def)             Requested size: 284.52756pt x 360.74992pt.
+[20 <./Imagenes/img03.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--78
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--78
+
+ []
+
+<./Imagenes/img06.jpg, id=130, 220.57407pt x 187.45032pt>
+File: ./Imagenes/img06.jpg Graphic file (type jpg)
+<use ./Imagenes/img06.jpg>
+Package pdftex.def Info: ./Imagenes/img06.jpg  used on input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 241.81189pt.
+[21 <./Imagenes/img04.jpg>]) [22 <./Imagenes/img06.jpg>]
+\openout2 = `Secciones/Actividad07.aux'.
+
+
+(Secciones/Actividad07.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--8
+
+ []
+
+
+Overfull \hbox (105.55159pt too wide) in paragraph at lines 4--8
+\OT1/cmr/m/n/12 SELECT ROUND(MAX(salary),0) AS "Ma-xi-mo", ROUND(MIN(salary),0)
+ AS "Mi-ni-mo", ROUND(SUM(salary),0)
+ []
+
+<./Imagenes/a7a1.png, id=137, 250.68657pt x 80.55093pt>
+File: ./Imagenes/a7a1.png Graphic file (type png)
+<use ./Imagenes/a7a1.png>
+Package pdftex.def Info: ./Imagenes/a7a1.png  used on input line 9.
+(pdftex.def)             Requested size: 142.26378pt x 45.71416pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--18
+
+ []
+
+<./Imagenes/a7a3.png, id=138, 195.73125pt x 260.47313pt>
+File: ./Imagenes/a7a3.png Graphic file (type png)
+<use ./Imagenes/a7a3.png>
+Package pdftex.def Info: ./Imagenes/a7a3.png  used on input line 19.
+(pdftex.def)             Requested size: 142.26378pt x 189.32903pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--25
+
+ []
+
+<./Imagenes/a7a4.png, id=139, 177.66376pt x 88.07906pt>
+File: ./Imagenes/a7a4.png Graphic file (type png)
+<use ./Imagenes/a7a4.png>
+Package pdftex.def Info: ./Imagenes/a7a4.png  used on input line 26.
+(pdftex.def)             Requested size: 142.26378pt x 70.53052pt.
+[23
+
+
+ <./Imagenes/a7a1.png> <./Imagenes/a7a3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 28--32
+
+ []
+
+<./Imagenes/a7a5.png, id=146, 167.87718pt x 85.06781pt>
+File: ./Imagenes/a7a5.png Graphic file (type png)
+<use ./Imagenes/a7a5.png>
+Package pdftex.def Info: ./Imagenes/a7a5.png  used on input line 33.
+(pdftex.def)             Requested size: 142.26378pt x 72.08861pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+<./Imagenes/a7a6.png, id=147, 198.7425pt x 205.5178pt>
+File: ./Imagenes/a7a6.png Graphic file (type png)
+<use ./Imagenes/a7a6.png>
+Package pdftex.def Info: ./Imagenes/a7a6.png  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 147.1166pt.
+[24 <./Imagenes/a7a4.png> <./Imagenes/a7a5.png> <./Imagenes/a7a6.png>])
+[25]
+\openout2 = `Secciones/Actividad08.aux'.
+
+ (Secciones/Actividad08.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+<./Imagenes/8ejer1.jpg, id=157, 638.385pt x 448.67625pt>
+File: ./Imagenes/8ejer1.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer1.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer1.jpg  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 99.98247pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--21
+
+ []
+
+<./Imagenes/8ejer2.jpg, id=158, 638.385pt x 445.665pt>
+File: ./Imagenes/8ejer2.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer2.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer2.jpg  used on input line 23.
+(pdftex.def)             Requested size: 142.26378pt x 99.31145pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--37
+
+ []
+
+[26
+
+
+ <./Imagenes/8ejer1.jpg> <./Imagenes/8ejer2.jpg>]
+<./Imagenes/8ejer3.jpg, id=162, 638.385pt x 267.24844pt>
+File: ./Imagenes/8ejer3.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer3.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer3.jpg  used on input line 39.
+(pdftex.def)             Requested size: 142.26378pt x 59.55331pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--49
+
+ []
+
+<./Imagenes/8ejer4.jpg, id=163, 629.35126pt x 450.9347pt>
+File: ./Imagenes/8ejer4.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer4.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer4.jpg  used on input line 52.
+(pdftex.def)             Requested size: 142.26378pt x 101.9307pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--62
+
+ []
+
+<./Imagenes/8ejer5.jpg, id=164, 632.3625pt x 450.9347pt>
+File: ./Imagenes/8ejer5.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer5.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer5.jpg  used on input line 64.
+(pdftex.def)             Requested size: 142.26378pt x 101.44215pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--74
+
+ []
+
+[27 <./Imagenes/8ejer3.jpg> <./Imagenes/8ejer4.jpg> <./Imagenes/8ejer5.jpg>]
+<./Imagenes/8ejer6.jpg, id=168, 630.10406pt x 448.67625pt>
+File: ./Imagenes/8ejer6.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer6.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer6.jpg  used on input line 76.
+(pdftex.def)             Requested size: 142.26378pt x 101.29695pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--86
+
+ []
+
+<./Imagenes/8ejer7.jpg, id=169, 636.12656pt x 447.17062pt>
+File: ./Imagenes/8ejer7.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer7.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer7.jpg  used on input line 88.
+(pdftex.def)             Requested size: 142.26378pt x 100.00177pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--101
+
+ []
+
+<./Imagenes/8ejer8.jpg, id=170, 633.86812pt x 448.67625pt>
+File: ./Imagenes/8ejer8.jpg Graphic file (type jpg)
+<use ./Imagenes/8ejer8.jpg>
+Package pdftex.def Info: ./Imagenes/8ejer8.jpg  used on input line 103.
+(pdftex.def)             Requested size: 142.26378pt x 100.69449pt.
+[28 <./Imagenes/8ejer6.jpg> <./Imagenes/8ejer7.jpg>]) [29 <./Imagenes/8ejer8.jp
+g>]
+\openout2 = `Secciones/Actividad09.aux'.
+
+ (Secciones/Actividad09.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--20
+
+ []
+
+<./Imagenes/actividad0901.jpg, id=178, 522.45187pt x 341.02406pt>
+File: ./Imagenes/actividad0901.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0901.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0901.jpg  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 92.85826pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--31
+
+ []
+
+<./Imagenes/actividad0902.jpg, id=179, 327.47343pt x 328.97906pt>
+File: ./Imagenes/actividad0902.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0902.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0902.jpg  used on input line 32.
+(pdftex.def)             Requested size: 142.26378pt x 142.91899pt.
+[30
+
+
+ <./Imagenes/actividad0901.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--45
+
+ []
+
+<./Imagenes/actividad0903.jpg, id=183, 538.26094pt x 363.60844pt>
+File: ./Imagenes/actividad0903.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0903.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0903.jpg  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 96.10056pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--58
+
+ []
+
+<./Imagenes/actividad0904.jpg, id=184, 258.21469pt x 290.58563pt>
+File: ./Imagenes/actividad0904.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0904.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0904.jpg  used on input line 59.
+(pdftex.def)             Requested size: 142.26378pt x 160.10193pt.
+[31 <./Imagenes/actividad0902.jpg> <./Imagenes/actividad0903.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 62--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--73
+
+ []
+
+<./Imagenes/actividad0905.jpg, id=188, 261.22594pt x 316.93407pt>
+File: ./Imagenes/actividad0905.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0905.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0905.jpg  used on input line 74.
+(pdftex.def)             Requested size: 142.26378pt x 172.60233pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--90
+
+ []
+
+[32 <./Imagenes/actividad0904.jpg> <./Imagenes/actividad0905.jpg>]
+<./Imagenes/actividad0906.jpg, id=192, 437.38406pt x 434.37282pt>
+File: ./Imagenes/actividad0906.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0906.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0906.jpg  used on input line 91.
+(pdftex.def)             Requested size: 142.26378pt x 141.28217pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--108
+
+ []
+
+<./Imagenes/actividad0907.jpg, id=193, 356.83313pt x 414.04688pt>
+File: ./Imagenes/actividad0907.jpg Graphic file (type jpg)
+<use ./Imagenes/actividad0907.jpg>
+Package pdftex.def Info: ./Imagenes/actividad0907.jpg  used on input line 110.
+(pdftex.def)             Requested size: 142.26378pt x 165.07248pt.
+[33 <./Imagenes/actividad0906.jpg> <./Imagenes/actividad0907.jpg>]) [34]
+\openout2 = `Secciones/Actividad10.aux'.
+
+
+(Secciones/Actividad10.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--10
+
+ []
+
+<./Imagenes/ejercicio10-1.png, id=200, 197.23688pt x 204.765pt>
+File: ./Imagenes/ejercicio10-1.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-1.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-1.png  used on input line 12.
+(pdftex.def)             Requested size: 142.26378pt x 147.69312pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+
+ []
+
+<./Imagenes/ejercicio10-2.png, id=201, 205.5178pt x 208.52907pt>
+File: ./Imagenes/ejercicio10-2.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-2.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-2.png  used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 144.34657pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--34
+
+ []
+
+[35
+
+
+ <./Imagenes/ejercicio10-1.png> <./Imagenes/ejercicio10-2.png>]
+<./Imagenes/ejercicio10-3.png, id=208, 170.88844pt x 92.59593pt>
+File: ./Imagenes/ejercicio10-3.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-3.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-3.png  used on input line 36.
+(pdftex.def)             Requested size: 142.26378pt x 77.09053pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--44
+
+ []
+
+<./Imagenes/ejercicio10-4.png, id=209, 169.38281pt x 90.3375pt>
+File: ./Imagenes/ejercicio10-4.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-4.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-4.png  used on input line 46.
+(pdftex.def)             Requested size: 142.26378pt x 75.87607pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--58
+
+ []
+
+<./Imagenes/ejercicio10-5.png, id=210, 266.49562pt x 209.28188pt>
+File: ./Imagenes/ejercicio10-5.png Graphic file (type png)
+<use ./Imagenes/ejercicio10-5.png>
+Package pdftex.def Info: ./Imagenes/ejercicio10-5.png  used on input line 60.
+(pdftex.def)             Requested size: 142.26378pt x 111.72359pt.
+) [36 <./Imagenes/ejercicio10-3.png> <./Imagenes/ejercicio10-4.png> <./Imagenes
+/ejercicio10-5.png>] (InformeLaboratorio01.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ (Secciones/Actividad01.aux)
+(Secciones/Actividad02.aux) (Secciones/Actividad03.aux)
+(Secciones/Actividad04.aux) (Secciones/Actividad05.aux)
+(Secciones/Actividad06.aux) (Secciones/Actividad07.aux)
+(Secciones/Actividad08.aux) (Secciones/Actividad09.aux)
+(Secciones/Actividad10.aux)) ) 
+Here is how much of TeX's memory you used:
+ 3983 strings out of 493305
+ 60548 string characters out of 3128933
+ 128521 words of memory out of 3000000
+ 7335 multiletter control sequences out of 15000+200000
+ 8261 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,30p,616b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/AEPIS01/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/AEPIS01/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/AEPIS01/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Use
+rs/AEPIS01/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y10.pfb>
+Output written on InformeLaboratorio01.pdf (38 pages, 2211996 bytes).
+PDF statistics:
+ 233 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+

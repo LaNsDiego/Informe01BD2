@@ -1,0 +1,25 @@
+\section{Actividad No 01 – Revisi\'on de Sintaxis} 
+De los siguientes comandos ¿Cuál es el resultado? ¿En caso de ser error cual sería la sentencia correcta?
+
+\begin{itemize}
+	\item SELECT last\_name, job\_id, salary AS Sal FROM employees;
+	\\Es correcta
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad0101} 
+	\end{center}
+
+	\item SELECT * FROM job\_grades;
+	\\Es incorrecta, la sentencia correcta sería:
+	\\SELECT * FROM jobs;
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad0102} 
+	\end{center}
+	
+	\item SELECT employee\_id, last\_name sal x 12 ANNUAL SALARY FROM employees;
+	\\Es incorrecta, la sentencia correcta sería:
+	\\SELECT employee\_id, last\_name, salary * 12 'ANNUAL SALARY' FROM employees;
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad0103} 
+	\end{center}
+
+\end{itemize} 

@@ -1,0 +1,34 @@
+\section{Actividad No 02 – Reconociendo la estructura} 
+
+\begin{enumerate}[1.]
+	\item Se requiere determinar la estructura de la tabla DEPARTMENTS y sus datos.
+	\\
+	\\SP\_HELP 'DEPARTMENTS'
+
+	\begin{center}
+	\includegraphics[width=10cm]{./Imagenes/actividad0201} 
+	\end{center}
+
+	\item El departamento de Recursos Humanos requiere un reporte que muestre los campos: employee\_id, last\_name y job\_id, asicomo el campo hire\_date con el alias StartDate.
+	\\
+	\\SELECT emp.employee\_id, \\
+	emp.last\_name, \\
+	emp.job\_id, \\
+	emp.hire\_date AS StartDate \\
+	FROM employees AS emp; 
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad0202} 
+	\end{center}
+
+	\item Finalmente el departamento de Recursos Humanos requiere un listado de todos valores del campo JOB\_ID de la tabla EMPLOYEES pero que se muestren de forma única y no repetida.
+	\\
+	\\SELECT DISTINCT job\_id FROM employees; 
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/actividad0203} 
+	\end{center}
+
+\end{enumerate}
+
+
