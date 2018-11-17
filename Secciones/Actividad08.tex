@@ -1,0 +1,109 @@
+\section{Actividad No 08 – Enlaces} 
+		
+\begin{enumerate}[1.]
+	\item El departamento de Recursos Humanos requiere un reporte que muestre las direcciones de todos los departamentos. Utilizar las tablas LOCATIONS y COUNTRIES. Mostrar el ID de la Ubicación (location\_id), dirección (street\_address), ciudad (city), estado o provincia (state\_province) y país (country\_name). % Utilizar NATURAL JOIN para producir el resultado.
+	\\
+	\\select l.location\_id , l.street\_address , l.city , l.state\_province , c.country\_name 
+	\\from locations as l 
+	\\join countries as c 
+	\\on l.country\_id = c.country\_id
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer1} 
+	\end{center}
+
+
+	\item El departamento de Recursos Humanos necesita un reporte de todos empleados, que muestres los apellidos de empleado (last\_name), el No de departamento (department\_id) y el nombre del departamento (depertment\_date) al cual pertenece. 
+	\\
+	\\select e.last\_name , d.department\_id , d.department\_name from employees as e
+	\\left join departments as d 
+	\\on e.department\_id = d.department\_id order by d.department\_name;
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer2} 
+	\end{center}
+
+	\item El departamento de Recursos Humanos necesita un reporte de los empleados de la ciudad de Toronto. Mostrar los Apellidos, Puesto, No de Departamento y Nombre de Departamento de todos los empleados que trabajan en Toronto.
+	\\
+	\\select e.last\_name , e.department\_id, j.job\_title, d.department\_name , l.city 
+	\\from employees as e 
+	\\left join jobs as j 
+	\\on e.job\_id = j.job\_id
+	\\join departments as d
+	\\on e.department\_id=d.department\_id
+	\\join locations as l 
+	\\on d.location\_id = l.location\_id
+	\\where l.city='Toronto';
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer3} 
+	\end{center}
+
+	\item Crear un reporte que muestre los Apellidos y No de Identificación de los empleados, asimismo también debe mostrarse el Apellido y No de Identificaci\'on de su Administrador.
+	\\
+	\\SELECT e.employee\_id 'ID\_Empleado', e.last\_name 'Empleado', 
+	\\m.employee\_id 'ID\_Manager', m.last\_name 'Manager' 
+	\\FROM employees e 
+	\\join employees m 
+	\\ON (e.manager\_id = m.employee\_id)
+
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer4} 
+	\end{center}
+
+	\item Modificar la consulta anterior para que incluya tambi\'en a los empleados quienes no tienen Administrador asignado.
+	\\
+	\\SELECT e.employee\_id 'ID\_Empleado', e.last\_name 'Empleado', 
+	\\m.employee\_id 'ID\_Manager', m.last\_name 'Manager' 
+	\\FROM employees e 
+	\\left outer join employees m
+	\\ON (e.manager\_id = m.employee\_id)
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer5} 
+	\end{center}
+
+	\item Crear un reporte que muestre los No de Departamento y Apellidos de todos los empleados, asimismo adicionar una columna con los Apellidos de todos empleados que trabajan en el mismo departamento. Etiquetar esta columna como Colega.
+	\\
+	\\select e.department\_id 'DEPARTMENTO', e.last\_name 'EMPLEADO', 
+	\\d.last\_name 'COLEGA' 
+	\\from employees e 
+	\\join employees d 
+	\\on (e.department\_id=d.department\_id) and e.last\_name!=d.last\_name;\\
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer6} 
+	\end{center}
+
+	\item El departamento de Recursos Humanos requiere un reporte de todo el personal que fue contratado después del empleado apellidado ‘Davies’. Crear un reporte que muestre el apellidos y fecha de contrataci\'on de todo los empleados contratado después de ‘Davies’.
+	\\
+	\\SELECT e.first\_name, e.last\_name, e.hire\_date 
+	\\FROM employees e 
+	\\JOIN employees davies 
+	\\ON (davies.last\_name = 'Davies') 
+	\\WHERE davies.hire\_date < e.hire\_date;
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer7} 
+	\end{center}
+
+
+	\item El departamento de Recursos Humanos requiere de un reporte que el apellido del empleado, fecha de contrataci\'on del empleado, apellido del administrador, fecha de contratación del administrador. Para todos aquellos empleados que fueron contratados antes que sus Administradores.
+	\\
+	\\select e.last\_name 'EMPLEADO', e.hire\_date 'FECHA\_CONTRATACION' , j.last\_name 'ADMINISTRADOR', 
+	\\j.hire\_date 'FECHA\_CONTRATACION\_ADMINISTRADOR'
+	\\from employees e 
+	\\join employees j 
+	\\on e.manager\_id=j.employee\_id 
+	\\and e.hire\_date < j.hire\_date 
+	\\order by e.hire\_date;
+
+	\begin{center}
+	\includegraphics[width=5cm]{./Imagenes/8ejer8} 
+	\end{center}
+
+	\end{enumerate}
+	
+
+
